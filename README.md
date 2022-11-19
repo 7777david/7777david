@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @7777david and I'm living in Switzerland
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning at school.
+- 💞️ I’m looking to collaborate on AI.
+- 📫 At the moment studying hard and not available to talk.
